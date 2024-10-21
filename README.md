@@ -22,3 +22,5 @@ We addressed the problem of clustering gene data when different types of data (v
   - Dutta P., Mishra P., Saha S. (2020). Incomplete multi-view gene clustering with data regeneration using Shape Boltzmann Machine. Computers in Biology and Medicine, Elsevier.
 * 2019
   - Mishra, P., Dey, S., Ghosh, S. S., Seal, D. B., & Goswami, S. (2019, September). Human activity recognition using deep neural network. In 2019 International conference on data science and engineering (ICDSE) (pp. 77-83). IEEE.
+
+[Google Scholar](https://scholar.google.com/citations?user=yFMgHqkAAAAJ&hl=en)
