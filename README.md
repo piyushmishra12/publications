@@ -1,8 +1,7 @@
 <link rel="stylesheet" href="styles.css">
 
 [<img align="left" width="40" height="40" src="logo.jpeg">](https://piyushmishra12.github.io/)
-
-
+<br><br>
 ## Publications
 
 * ***Mishra, P. and Roudot, P., (2024). Comparative study of transformer robustness for multiple particle tracking without clutter. In EUSIPCO.***<br>
