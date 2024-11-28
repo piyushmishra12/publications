@@ -1,6 +1,8 @@
 <link rel="stylesheet" href="styles.css">
 
-[<img align="left" width="40" height="40" src="logo.jpeg">](https://piyushmishra12.github.io/)
+<br>
+
+[<img align="left" width="45" height="45" src="logo.jpeg">](https://piyushmishra12.github.io/)
 <br><br>
 ## Publications
 
