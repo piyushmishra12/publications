@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="styles.css">
 
-[<img align="left" width="40" height="40" src="https://github.com/piyushmishra12/piyushmishra12.github.io/blob/master/images/logo.jpg.jpeg">](piyushmishra12.github.io)
+[<img align="left" width="40" height="40" src="logo.jpeg">](https://piyushmishra12.github.io/)
 
 
 ## Publications
