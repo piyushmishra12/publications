@@ -8,7 +8,7 @@ This paper offers a proof-of-concept study of the benefit of the transformer arc
 * ***Dutta P., Mishra P., Saha S. (2020). Incomplete multi-view gene clustering with data regeneration using Shape Boltzmann Machine. Computers in Biology and Medicine, Elsevier.***<br>
 We addressed the problem of clustering gene data when different types of data (views) are missing. Our proposed approach used Shape Boltzmann Machines to regenerate missing data and subsequently perform clustering. This method aims to enhance the accuracy and reliability of gene clustering by leveraging information from multiple data sources, even in the presence of incomplete data. We evaluated our method on several real-world gene datasets and demonstrated its superior performance compared to existing approaches.
 
-## Full List of Published and Archived Work
+## Complete List of Published and Archived Work
 * 2024
   - Mishra, P. and Roudot, P., (2024). Comparative study of transformer robustness for multiple particle tracking without clutter. In EUSIPCO.
 * 2023
