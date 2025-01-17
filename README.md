@@ -12,11 +12,11 @@ We addressed the problem of clustering gene data when different types of data (v
 
 ## Complete List of Published and Archived Work
 * 2024
-  - Mishra, P. and Roudot, P., (2024). Comparative study of transformer robustness for multiple particle tracking without clutter. In EUSIPCO.
+  - Mishra, P. and Roudot, P., (2024). Comparative study of transformer robustness for multiple particle tracking without clutter. In EUSIPCO. [PDF](https://hal.science/hal-04619330)
 * 2023
-  - Mishra, P., (2023). Comparative study of stochastic filtering and attention-based approaches for intracellular dynamics estimation, Institut de Mathématiques de Marseille.
+  - Mishra, P., (2023). Comparative study of stochastic filtering and attention-based approaches for intracellular dynamics estimation, Institut de Mathématiques de Marseille. [PDF](https://piyushmishra12.github.io/Piyush_Mishra_M2_Dissertation.pdf)
 * 2022
-  - Mishra, P., (2022). Understanding the Human Genome Language with Natural Language Models, Stony Brook University & Aix-Marseille Université.
+  - Mishra, P., (2022). Understanding the Human Genome Language with Natural Language Models, Stony Brook University & Aix-Marseille Université. [PDF](https://hal.science/hal-04614098)
 * 2021
   - Mishra, P., Mohapatra, P., Patra, T. K., & Subham, P. (2021, December). Disease Diagnosis in Grapevines–A Hybrid Resnet-Jaya Approach. In International Advanced Computing Conference (pp. 39-56). Cham: Springer International Publishing.
 * 2020
